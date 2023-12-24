@@ -1,6 +1,13 @@
 # Changelog
 
 
+## [1.231.0](https://github.com/windmill-labs/windmill/compare/v1.230.0...v1.231.0) (2023-12-24)
+
+
+### Features
+
+* **cli:** support skip args for push --raw ([fc07d58](https://github.com/windmill-labs/windmill/commit/fc07d5886893c8d493c3ca507e0c9d4a066622fc))
+
 ## [1.230.0](https://github.com/windmill-labs/windmill/compare/v1.229.0...v1.230.0) (2023-12-22)
 
 
